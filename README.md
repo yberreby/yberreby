@@ -1,6 +1,6 @@
 ### Hey, I'm Yohaï-Eliel BERREBY 👋
 
-I'm currently a researcher at the [M2B3 lab](https://m2b3.github.io/) at McGill. Before that, I was a Backend Software Engineer at [Routine](https://www.ycombinator.com/companies/routine) (YC W21), mainly programming in OCaml.
+I'm currently a PhD student at the [M2B3 lab](https://m2b3.github.io/) at McGill, in the Department of Physiology. Before that, I was a Backend Software Engineer at [Routine](https://www.ycombinator.com/companies/routine) (YC W21), mainly programming in OCaml.
 
 My research is focused on the intersection of AI neuroscience. How can the brain teach us to build better AI, and how can we use AI to understand the brain better?
 
